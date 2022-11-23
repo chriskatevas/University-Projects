@@ -1,10 +1,4 @@
 '''
-    Main Authors: Katevas Chris
-    p18068
-    github: https://github.com/katevaschris
-    
-    Athens 14, May 2019
-    
     Main purpose: Find rank of a given (string)/ number
 '''
 #Functions
