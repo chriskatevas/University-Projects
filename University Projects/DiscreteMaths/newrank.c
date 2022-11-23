@@ -1,10 +1,4 @@
 /*
-    Main Author: Katevas Chris
-    p18068
-    github: https://github.com/katevaschris
-    
-    Athens 15, May 2019
-    
     Main purpose: Input String and new position and gonna print the new lexicography word
                     in givven rank
 */
