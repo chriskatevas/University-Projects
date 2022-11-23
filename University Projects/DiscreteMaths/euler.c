@@ -1,16 +1,3 @@
-/*
-	Contribution (Algorithm Designer): Pakou Eva
-	p18118
-	github: https://github.com/Evaggelia18
-	
-	Main Author: Katevas Chris
-	p18068
-	github: https://github.com/katevaschris
-	
-	Athens 2, April 2018
-	
-	Main purpose: Find and print an eulerian trail
-*/
 #include <stdio.h>
 
 int main(void)
