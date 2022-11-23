@@ -1,18 +1,3 @@
-/*
-	Main Authors: Pakou Eva, Katevas Chris
-
-	Pakou Eva
-	p18118
-	github: https://github.com/Evaggelia18
-
-	Katevas Chris
-	p18068
-	github: https://github.com/katevaschris
-	
-	Athens 2, April 2019
-	
-	Main purpose: 
-*/
 
 #include<stdio.h>
 #include <stdlib.h>
